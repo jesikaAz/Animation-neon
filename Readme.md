@@ -2,9 +2,9 @@
 
 ## Projet
 
-- Intégration Animation-neon
+- Intégration/Reproduction de la démo Animation-neon
 - [Démo](https://melleprunelle.github.io/animation-neon/ )
-- [intégration]( https://jonathanguillou.github.io/Animation-neon/)
+- [Reproduction]( https://jonathanguillou.github.io/Animation-neon/)
 
 ## Languages utilisés
 
