@@ -1,0 +1,40 @@
+/* 
+ *Author :Jonathan Guillou 
+ *Animation-neon
+ *Version 0.1 date:09/11/2017;
+*/
+html {
+  margin: 0; }
+  html body {
+    margin: 0;
+    width: 100vw;
+    height: 100vh;
+    overflow: hidden;
+    background-image: url(../img/soft_kill.png);
+    display: block;
+    justify-content: center; }
+    html body .logodevil {
+      position: absolute;
+      width: 100%;
+      height: 20%;
+      margin-top: 11%;
+      display: flex;
+      justify-content: center; }
+      html body .logodevil .devil2-img {
+        width: 50%;
+        height: 100%;
+        margin: auto;
+        -webkit-animation: neon 2s infinite;
+        filter: blur(5px); }
+@-webkit-keyframes neon {
+  0% {
+    opacity: 0.3; }
+  100% {
+    opacity: 1; } }
+      html body .logodevil .devil-img {
+        position: absolute;
+        width: 50%;
+        height: 100%;
+        margin: auto; }
+
+/*# sourceMappingURL=style.css.map */
